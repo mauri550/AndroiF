@@ -1,0 +1,43 @@
+{
+    "users": [
+        {
+            "Nombre": "Ray",
+            "Apellido": "Villalobos",
+            "Codigo": "malfaro123",
+            "Contacto": "7737-2864",
+            "userName": "malfaro",
+            "password": "123",
+            "joined": {
+                "month": "January",
+                "day": 12,
+                "year": 2012
+            }
+        },
+        {
+            "Nombre": "Mauricio",
+            "Apellido": "Jones",
+            "Codigo": "Mau123",
+            "Contacto": "7737-2865",
+            "userName": "mau",
+            "password": "123",
+            "joined": {
+                "month": "April",
+                "day": 28,
+                "year": 2010
+            }
+        },
+        {
+            "Nombre": "Mauricio",
+            "Apellido": "Alfaro",
+            "Codigo": "Mauri123",
+            "Contacto": "7737-2866",
+            "userName": "mauri",
+            "password": "123",
+            "joined": {
+                "month": "Marzo",
+                "day": 26,
+                "year": 2010
+            }
+        }
+    ]
+}
