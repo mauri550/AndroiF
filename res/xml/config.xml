@@ -7,7 +7,7 @@
     
     <name>Reportes Kimberly</name>
     
-    <content src="index.html"/>
+    <content src="../../assets/www/index.html"/>
     <icon src="icon.png" width="256" height="256" />
     
     <description>
